@@ -1,0 +1,11 @@
+h1{
+	font-size: 85px;
+	color: white;
+}
+#co{
+	font-size: 60px;
+	color: Red;
+}
+body{
+	background-image: url("rain.jpg")
+}
